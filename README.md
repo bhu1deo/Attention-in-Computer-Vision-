@@ -22,6 +22,6 @@ Results : On the Flowers Resized Dataset (224x224) I got the following accuracie
 4.) Single Block NLNet : 68%
 5.) Single Block Self-Attention : 67%
 
-The Last two architectures are not exact, and only single Blocks in the ResNet architecture are altered to spped up the training, hence the compromise. 
+The Last two architectures are not exact, and only single Blocks in the ResNet architecture are altered to speed up the training, hence the compromise. 
 
 These codes are just a proof of the concept and do not represent actual efficient implementations. 
