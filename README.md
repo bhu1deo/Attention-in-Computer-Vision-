@@ -3,8 +3,11 @@
 I implemented the following architectures all from scratch: 
 
 a.) ResNet : 
-b.) SENet : 
+
+b.) SENet :
+
 c.) NLNet : 
+
 d.) Self Attention in Visual Models : 
 
 Model Architectures : 
