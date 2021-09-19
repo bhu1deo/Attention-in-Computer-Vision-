@@ -24,4 +24,4 @@ Results : On the Flowers Resized Dataset (224x224) I got the following accuracie
 
 The Last two architectures are not exact, and only single Blocks in the ResNet architecture are altered to speed up the training, hence the compromise. 
 
-These codes are just a proof of the concept and do not represent actual efficient implementations. 
+These codes are just a proof of the concept. 
